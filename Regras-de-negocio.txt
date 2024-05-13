@@ -1,1 +1,58 @@
-- Kotlin como lingagem principal 
+                                                                                                    ◈ AppMap ◈
+
+
+# Descrição do projeto:
+  O aplicativo proposto é um sistema de mapeamento de atividades sociais, permitindo aos usuários marcar locais no mapa com informações sobre suas atividades atuais. A principal funcionalidade é a capacidade de registrar  e compartilhar atividades em tempo real, com atribuição de pontos e níveis aos usuários com base em suas interações. 
+
+# Funcionalidades Principais:
+
+  1 - Marcação de Localização no Mapa:
+    • Os usuários podem selecionar sua localização atual no mapa e adicionar detalhes sobre a atividade que estão realizando.
+
+  2 - Atribuição de Pontos e Níveis:
+    • Cada marcação no mapa concede pontos aos usuários, contribuindo para o seu nível no aplicativo. O sistema de pontuação incentiva a interação contínua e a exploração de novos locais.
+
+  3 - Personalização com Emojis:
+    • Os usuários têm a opção de personalizar suas marcações no mapa com emojis, tornando-as mais expressivas e visíveis para amigos e grupos.
+    
+  4 - Interação Social em Grupos:
+    • Os usuários podem formar grupos e compartilhar suas atividades em tempo real com membros do grupo. As marcações no mapa são visíveis para amigos e colegas de grupo.
+
+
+# Benefícios e Objetivos:
+
+  • Conexão Social:
+    · Facilita a conexão entre amigos ao compartilhar atividades e locais em tempo real.
+
+  • Gamificação:
+    · Introduz um elemento de gamificação com sistema de pontos e níveis para incentivar a participação ativa dos usuários.
+
+  • Personalização:
+    · Oferece opções de personalização com emojis, tornando as marcações no mapa mais divertidas e identificáveis.
+
+
+# Tecnologias Propostas:
+
+  • Plataforma de Desenvolvimento:
+    · Android Studio com linguagem Kotlin para o desenvolvimento do aplicativo nativo.
+
+  • Integração de Mapas:
+    · API do Google Maps para exibir e interagir com mapas no aplicativo.
+
+  • Armazenamento de Dados:
+    · Firebase para gerenciamento de usuários, pontuações e atividades em tempo real.
+
+
+# Próximos Passos:
+
+  • Planejamento e Prototipagem:
+    · Elaborar um plano detalhado e criar protótipos para visualizar e validar as funcionalidades do aplicativo.
+
+  • Desenvolvimento Iterativo:
+    · Implementar as funcionalidades em etapas iterativas, testando e refinando o aplicativo ao longo do processo.
+
+  • Testes e Lançamento:
+    · Realizar testes abrangentes em dispositivos reais e preparar o aplicativo para lançamento na Google Play Store.
+
+
+                    ◆ O objetivo final é criar uma plataforma interativa e envolvente que permita aos usuários compartilhar suas experiências e atividades de forma criativa e socialmente conectada.
